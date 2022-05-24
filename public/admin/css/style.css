@@ -1,0 +1,110 @@
+a {
+    color: #08A0E9;
+    text-decoration: none;
+}
+.login-container .panel-body {
+    padding: 40px 15px;
+}
+.btn-login .login-img {
+    margin-left: -25px;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+#newsletter-builder-sidebar {
+    -webkit-box-shadow: 10px 5px 5px -5px rgba(236,239,248,1);
+    -moz-box-shadow: 10px 5px 5px -5px rgba(236,239,248,1);
+    box-shadow: 10px 5px 5px -5px rgba(236,239,248,1);
+}
+.content-group-lg {
+    font-size: 20px;
+    color: #989898;
+    font-family: Poppins;
+    margin: 17px 0;
+}
+.left-easy .fa {
+    position: absolute;
+    left: 10px;
+    top: 19px;
+}
+#upload {
+    cursor: pointer;
+}
+.note-popover.popover {
+    z-index: 1000000000 !important;
+}
+#newsletter-builder-area-center-frame-content {
+    line-height: 2 !important;
+    text-align: justify;
+}
+#newsletter-builder-area-center-frame-content td {
+    font-size: 13px;
+}
+#newsletter-builder-area-center-frame-content ol li {
+    margin-bottom: 20px !important;
+    line-height: 2;
+}
+.proposal-footer {
+    font-size: 14px;
+    line-height: 1.6;
+    text-align: center;
+    color: blue;
+    border-top: 1px solid #ddd;
+    padding-top: 20px;
+    margin-top: 20px;
+}
+.proposal-logo {
+    margin-bottom: 30px;
+    text-align: right;
+}
+.proposal-logo img {
+    max-width: 200px;
+}
+.sim-row-edit-hover i {
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    line-height: 30px;
+    left: 100% !important;
+    top: 0 !important;
+    text-align: center;
+    margin-top: -15px;
+    margin-left: -15px;
+    color: rgba(255,255,255,1);
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    font-size: 16px;
+    background: red !important;
+}
+#newsletter-builder-area-center-frame-content ol {
+    list-style-type: unset !important;
+}
+.sim-row-delete {
+    display: none !important;
+}
+.badge.badge-Approved {
+
+    background: blue;
+    color: #fff;
+    opacity: 1 !important;
+
+}
+.badge.badge-Declined {
+
+    background: red;
+
+}
+img.signature{
+    width:206px !important;
+    height: 77px !important;
+}
+.approved-div img {
+    max-width: 100px !important;
+}
+.approved-div{
+    text-align: right;
+}
